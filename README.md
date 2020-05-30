@@ -1,6 +1,7 @@
 # flutter Swipe Up Animation
 
 <img src="/assets/screenshot.gif"></br>
+<p>Watch the Video on Youtube - <a href="https://youtu.be/tJ8Wcp6Eh7c" rel="nofollow">Youtube Video</a></p>
 
 <p>Don't Forget to Subscribe to My youtube Channel - <a href="https://www.youtube.com/channel/UCuArmx2gHQooKQ3oMLTbv2Q" rel="nofollow">Moroccan Dev</a></p></br>
 <p>Join our flutter family group - <a href="http://bit.ly/2MkIVBE" rel="nofollow">flutter maroc (arabic - english)</a></p></br>
